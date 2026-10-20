@@ -127,11 +127,9 @@ Everything, from download to the final chart, runs top to bottom in one notebook
 
 ---
 
-## Team A09
+## Team Members
 
 Sanjana Tanna · Emily Zhao · Sienna Huang · Kavya Narayan · Vanshika Gupta
-
-*Generative AI (Claude) assisted with coding, chart styling and editing. The team designed the analysis, checked every result and wrote the conclusions. Full disclosure is at the end of the notebook.*
 
 ---
 
